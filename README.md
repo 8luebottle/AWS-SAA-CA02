@@ -19,6 +19,6 @@ David Clinton and Ben Piper. [*AWS Certified Solutions Architect STUDY GUIDE.*](
 - Plan and Schedule
 
 ### week 02
-#### Date: `04-14-2020 22:30 PM`
+#### Date: `04-15-2020 22:30 PM`
 #### Chapter: 2, 3
 - Review Chapter 2, and 3
