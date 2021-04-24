@@ -22,13 +22,19 @@ David Clinton and Ben Piper. [*AWS Certified Solutions Architect STUDY GUIDE.*](
 #### Date: `04-15-2020 22:30 PM`
 #### Chapter: 2, 3
 - Review Chapter 2, and 3
+  - Chapter 2 : Amazon Elastic Compute Cloud and Amazon Elastic Block Store 
+  - Chapter 3 : Amazon Simple Storage Service & Amazon Glacier Storage
 
 ### week 03
 #### Date: `04-21-2020 22:00 PM`
 #### Chapter: 4, 5
 - Review Chapter 4, and 5
+  - Chapter 4 : Amazon Virtual Private Cloud
+  - Chapter 5 : Database
 
 ### week 04
 #### Date: `04-28-2020 22:00 PM`
 #### Chapter: 6, 7
 - Review Chapter 6, 7
+  - Chapter 6 : AWS Identity and Access Management
+  - Chapter 7 : CloudTrail, CloudWatch, AWS Config 
