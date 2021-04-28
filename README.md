@@ -12,29 +12,36 @@ David Clinton and Ben Piper. [*AWS Certified Solutions Architect STUDY GUIDE.*](
 
 ## Progress
 ### week 01
-#### Date: `04-10-2020 14:10 PM`
+#### Date: `04-10-2021 14:10 PM`
 - Create a study schedule 
 - Discuss study methodology
 - Pre-test Chapter 2
 - Plan and Schedule
 
 ### week 02
-#### Date: `04-15-2020 22:30 PM`
+#### Date: `04-15-2021 22:30 PM`
 #### Chapter: 2, 3
 - Review Chapter 2, and 3
   - Chapter 2 : Amazon Elastic Compute Cloud and Amazon Elastic Block Store 
   - Chapter 3 : Amazon Simple Storage Service & Amazon Glacier Storage
 
 ### week 03
-#### Date: `04-21-2020 22:00 PM`
+#### Date: `04-21-2021 22:00 PM`
 #### Chapter: 4, 5
 - Review Chapter 4, and 5
   - Chapter 4 : Amazon Virtual Private Cloud
   - Chapter 5 : Database
 
 ### week 04
-#### Date: `04-28-2020 22:00 PM`
+#### Date: `04-28-2021 22:00 PM`
 #### Chapter: 6, 7
 - Review Chapter 6, 7
   - Chapter 6 : AWS Identity and Access Management
   - Chapter 7 : CloudTrail, CloudWatch, AWS Config 
+
+### week 05
+#### Date: `05-06-2021 22:00 PM`
+#### Chapter: 8, 9
+- Review Chapter 8, 9
+  - Chapter 8 : Amazon Route 53 & Amazon CloudFront
+  - Chapter 9 : The Reliability Pillar
