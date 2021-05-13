@@ -47,8 +47,15 @@ David Clinton and Ben Piper. [*AWS Certified Solutions Architect STUDY GUIDE.*](
   - Chapter 9: The Reliability Pillar
 
 ### week 06
-#### Date: `05-12-2021 22:00PM`
+#### Date: `05-13-2021 21:00PM`
 #### Chapter: 10, 11
 - Review Chapter 10, 11
   - Chapter 10: The Performance Efficiency Pillar
   - Chapter 11: The Security Pillar
+
+### week 07
+#### Date: `05-20-2021 21:00PM`
+#### Chapter: 12, 13
+- Review Chapter 12, 13
+  - Chapter 12: The Cost Optimization Pillar
+  - Chapter 13: The Operational Excellence Pillar
